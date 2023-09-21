@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  *
  */
 
-public class Task03 {
+public class Zadacha_3 {
     // Кол-во элементов
     private static final int COUNT_ELEMENTS = 15;
     // Максимальное значение

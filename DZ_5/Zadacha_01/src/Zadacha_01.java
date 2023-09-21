@@ -9,7 +9,7 @@ import java.util.logging.Logger;
  */
 
 
-public class Task01 {
+public class Zadacha_1 {
     private static Map<String, List<String>> phoneNote = new HashMap<>();
 
     public static void main(String[] args) {
